@@ -101,3 +101,4 @@ test <- function()
     
     amatrix$get() %*% amatrix$getinverse() # returns the identity matrix
 }
+  
